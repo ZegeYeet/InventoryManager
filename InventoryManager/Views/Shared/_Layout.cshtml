@@ -25,6 +25,36 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
+                        <li>
+                            <select id="InventoryDropDownList" class="btn dropdown-toggle" style="max-width:120px" onchange="FilterCategory(this.value)">
+                                <option value="">Items</option>
+                                <option value="">Item Groups</option>
+                                <option value="">Inventory Adjustments</option>
+                            </select>
+                        </li>
+                        <li>
+                            <select id="SalesDropDownList" class="btn dropdown-toggle" style="max-width:130px" onchange="FilterCategory(this.value)">
+                                <option value="">Customers</option>
+                                <option value="">Orders</option>
+                                <option value="">Packages</option>
+                                <option value="">Shipments</option>
+                                <option value="">Invoices</option>
+                                <option value="">Payments Recieved</option>
+                                <option value="">Sales Returns</option>
+                                <option value="">Credit Notes</option>
+                            </select>
+                        </li>
+                        <li>
+                            <select id="PurchasesDownList1" class="btn dropdown-toggle" style="max-width:120px" onchange="FilterCategory(this.value)">
+                                <option value="">Vendors</option>
+                                <option value="">Expenses</option>
+                                <option value="">Purchase Orders</option>
+                                <option value="">Purchase Recieves</option>
+                                <option value="">Bills</option>
+                                <option value="">Payments Made</option>
+                                <option value="">Vendor Credits</option>
+                            </select>
+                        </li>
                     </ul>
                     <partial name="_LoginPartial" />
                 </div>
