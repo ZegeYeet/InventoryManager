@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using InventoryManager.Models;
 
 namespace InventoryManager.Data
 {
@@ -9,5 +10,6 @@ namespace InventoryManager.Data
             : base(options)
         {
         }
+        public DbSet<InventoryManager.Models.ItemsModel>? ItemsModel { get; set; }
     }
 }
