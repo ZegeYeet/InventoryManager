@@ -26,10 +26,10 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                         <li>
-                            <select id="InventoryDropDownList" class="btn dropdown-toggle" style="max-width:120px" onchange="FilterCategory(this.value)">
-                                <option value="">Items</option>
-                                <option value="">Item Groups</option>
-                                <option value="">Inventory Adjustments</option>
+                            <select id="InventoryDropDownList" class="btn dropdown-toggle" style="max-width:120px" onchange="NavbarLink(this.value)" onfocus=" this.selectedIndex=-1;">
+                                <option value="ItemsModels">Items</option>
+                                <option value="#">Item Groups</option>
+                                <option value="#">Inventory Adjustments</option>
                             </select>
                         </li>
                         <li>
