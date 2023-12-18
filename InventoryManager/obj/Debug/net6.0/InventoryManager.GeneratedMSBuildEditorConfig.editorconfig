@@ -28,24 +28,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Travis Johnson/Desktop/code related/asp.net/InventoryManager/InventoryManager/Views/ItemsModels/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNNb2RlbHNcQ3JlYXRlLmNzaHRtbA==
+[C:/Users/Travis Johnson/Desktop/code related/asp.net/InventoryManager/InventoryManager/Views/Items/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Travis Johnson/Desktop/code related/asp.net/InventoryManager/InventoryManager/Views/ItemsModels/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNNb2RlbHNcRGVsZXRlLmNzaHRtbA==
+[C:/Users/Travis Johnson/Desktop/code related/asp.net/InventoryManager/InventoryManager/Views/Items/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Travis Johnson/Desktop/code related/asp.net/InventoryManager/InventoryManager/Views/ItemsModels/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNNb2RlbHNcRGV0YWlscy5jc2h0bWw=
+[C:/Users/Travis Johnson/Desktop/code related/asp.net/InventoryManager/InventoryManager/Views/Items/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Travis Johnson/Desktop/code related/asp.net/InventoryManager/InventoryManager/Views/ItemsModels/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNNb2RlbHNcRWRpdC5jc2h0bWw=
+[C:/Users/Travis Johnson/Desktop/code related/asp.net/InventoryManager/InventoryManager/Views/Items/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Travis Johnson/Desktop/code related/asp.net/InventoryManager/InventoryManager/Views/ItemsModels/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNNb2RlbHNcSW5kZXguY3NodG1s
+[C:/Users/Travis Johnson/Desktop/code related/asp.net/InventoryManager/InventoryManager/Views/Items/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Travis Johnson/Desktop/code related/asp.net/InventoryManager/InventoryManager/Views/Shared/Error.cshtml]

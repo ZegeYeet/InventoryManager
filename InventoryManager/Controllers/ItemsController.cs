@@ -10,11 +10,11 @@ using InventoryManager.Models;
 
 namespace InventoryManager.Controllers
 {
-    public class ItemsModelsController : Controller
+    public class ItemsController : Controller
     {
         private readonly ApplicationDbContext _context;
 
-        public ItemsModelsController(ApplicationDbContext context)
+        public ItemsController(ApplicationDbContext context)
         {
             _context = context;
         }
