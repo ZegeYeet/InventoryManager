@@ -9,7 +9,7 @@ namespace InventoryManager.Models
         public string Name { get; set; }
         public string? Brand { get; set; }
 
-        public string? Category { get; set; }//footwear, apparel, equipment, bags, misc
+        public string? Category { get; set; }//footwear, apparel, equipment (clips, ropes, chalk), bags, misc
 
         public float Price { get; set; }
         [Required]
